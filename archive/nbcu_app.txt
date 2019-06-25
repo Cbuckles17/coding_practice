@@ -1,0 +1,63 @@
+Coding project: Colin Buckley
+
+
+Specifications
+Goal
+
+Build a mobile application that displays the news
+
+
+Data
+
+https://s3.amazonaws.com/shrekendpoint/news.json
+
+This contains a JSON data feed with a variety of news items, namely `article`s, `video`s and `slideshow`s (which contain `images` arrays) 
+
+
+User Stories
+- I want to be able to consume the news in various ways (which correspond to the `type`s you’ll see in our data):
+    - When I’m on the go, I’ll skim all the headlines.
+    - When I have time at night, I’ll read `article`s,
+    - When I want something visual on the train, I’ll browse photo `slideshow`s
+    - When I’m cooking dinner, I’ll watch `video`s
+- I want to see the freshest content (never show old news!)
+
+
+Technical Requirements/Expectations
+- Please implement this using the latest supported language for the platform:
+    - iOS: Swift
+    - Android: Kotlin
+- We expect code that’s high quality and easy to read and understand
+    - Here are our +Coding guidelines 
+- Show milestones in your progress using git
+    - We know you’re solo on this project, but please give us readable progress.  Everything dumped onto git as  “initial commit” the day before you submit isn’t ideal.
+
+
+What we need from you
+1. A proposal of scope and timeline
+
+
+1. a summary of what you’d like to submit
+2. when you want to start
+3. a target date you’d like to submit.  
+
+For timeline, we are flexible. You will be expected to show good estimation and communication. 
+
+Send your proposal to Cheryl.Pieterse@nbcuni.com and Kevin.Lim@nbcuni.com with subject header “Coding project: `[insert your name]`”
+
+
+2. A git repo URL, with the completed project
+
+Once we receive this it may take us a couple of business days to review and get back to you with feedback. Our feedback may be a simple 👍 or we may ask you to make some modifications before we say it’s done.
+
+
+
+
+Common mistakes
+
+By far the most common mistake is defining a scope too broad, creating too much work. The goal is not to build a full-fledged app. You don’t have to hit every user story, but you should show the best of your creativity, communication and coding
+
+The next most common mistakes are: 
+
+- disappearing and not making any time for communication. quality work at the end doesn’t offset the pain of bad coordination.
+- submitting something that’s a Frankenstein monster of sample code. We need to see your authorship
